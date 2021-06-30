@@ -1,0 +1,1 @@
+NODE_OPTIONS='--inspect' yarn next dev
